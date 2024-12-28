@@ -2,7 +2,7 @@
 
 # Workshop Information
 
-[![Green_-_Unlock_the_Power_of_Messaging_Patterns_743889 (1)](assets/Green_-_Unlock_the_Power_of_Messaging_Patterns_743889 (1).jpeg)](https://codemash.org/session-details/?id=743889)
+[![CodeMash 2025 - Unlock the Power of Messaging Patterns](assets\CodeMashBanner.jpeg)](https://codemash.org/session-details/?id=743889)
 
 ## Location, Dates, and Times
 
