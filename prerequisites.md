@@ -38,19 +38,6 @@ Setting up the required resources before the workshop allows us to maximize our 
 
 To access the workshop materials, you will need to clone the workshop repository to your local machine. Follow these steps:
 
-1. Ensure you have [Git](https://git-scm.com) installed on your machine.
-2. Open a terminal or PowerShell window.
-3. Navigate to the directory were you want to clone the repository.
-4. Run the following command:
-
-- ```bash
-  git clone https://github.com/TaleLearnCode/UnlockThePowerOfMessagingPatterns-CodeMash.git
-  ```
-
-
-
-
-
 1. Ensure you have [Git](https://git-scm.com/) installed on your machine.
 
 2. Open a terminal or PowerShell window.
@@ -96,6 +83,10 @@ Before the workshop, please ensure you have the following tools installed and se
   > [!IMPORTANT]
   >
   > The emulator uses a specified JSON file to configure the Service Bus queues, topics, and subscriptions. Replace the `ServiceBus-Emulator\Config\Config.json` file with the [configuration file built for the workshop](config.json). This Config.json is built with all of the queues, topics, and subscriptions that will be used during the workshop.
+
+  > [!CAUTION]
+  >
+  > As of December 28, 2024, the labs are still in development and the Config.json file will change before the event.
 
 - **Azure Functions Core Tools**: [Install Azure Functions Core Tools](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local)
 
