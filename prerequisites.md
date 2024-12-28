@@ -78,8 +78,6 @@ Before the workshop, please ensure you have the following tools installed and se
   - [Install Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install)
   - [Configure Docker to use WSL](https://docs.docker.com/desktop/features/wsl/#:~:text=Turn%20on%20Docker%20Desktop%20WSL%202%201%20Download,engine%20..%20...%206%20Select%20Apply%20%26%20Restart.)
 
-- **Azure Service Bus Emulator**: Follow the detailed instructions in [Azure Service Bus Emulator Setup Page](your-setup-page-link-here), which includes downloading the prebuilt `config.json` file containing all the queues, topics, and subscriptions we will be using in the lab exercises.
-
 - **Azure Service Bus Emulator**: [Azure Service Bus Emulator Installer](https://github.com/Azure/azure-service-bus-emulator-installer)
 
   > [!IMPORTANT]
