@@ -1,3 +1,5 @@
+[Unlock the Power of Messaging Patterns](https://github.com/TaleLearnCode/UnlockThePowerOfMessagingPatterns) \ [Code Mash 2025](https://github.com/TaleLearnCode/UnlockThePowerOfMessagingPatterns-CodeMash) \
+
 # Prerequisites
 
 Welcome to the **Unlock the Power of Messaging Patterns** hands-on workshop. The primary purpose of this document is to ensure that all participants are prepared with the necessary resources before the workshop begins. By following these prerequisite instructions, you will be ready to dive straight into the hands-on activities without any setup delays.
@@ -14,7 +16,7 @@ This workshop will explore key messaging patterns and how they can be implemente
 - **Publish/Subscribe**: Distributing messages to multiple subscribers for real-time updates.
 - **Event Streaming**: Processing and reacting to streams of events in real-time.
 
-Implementation of these patterns will be demonstrated using Azure services:
+Implementation of these patterns will be demonstrated using the following Azure services:
 
 - **Azure Service Bus**: Perfect for implementing messaging queueing and publish-subscribe patterns with advanced features like dead-lettering and message sessions.
 - **Azure Event Hubs**: Ideal for event streaming scenarios, enabling high-throughput data ingestion and processing.
