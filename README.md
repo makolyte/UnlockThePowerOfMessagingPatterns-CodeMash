@@ -35,6 +35,6 @@ You'll leave this session with a solid, hands-on understanding of leveraging mes
 ## Workshop Materials
 
 - [Prerequisites](prerequisites.md)
-- Slides
-- Lab Exercises
-- Demos
+- [Slides](slides)
+- [Lab Exercises](labs)
+- [Demos](demos)
