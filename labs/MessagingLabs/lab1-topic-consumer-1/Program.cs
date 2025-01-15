@@ -14,7 +14,7 @@ static async Task<ServiceBusProcessor> AddSubscription(string subscriptionName)
     ServiceBusClient client = new(connectionString);
     ServiceBusProcessor processor = client.CreateProcessor(topicName, subscriptionName, new ServiceBusProcessorOptions()
     {
-        //AutoCompleteMessages = true
+        AutoCompleteMessages = true
     });
 
     processor.ProcessMessageAsync += async (args) => Console.WriteLine($"Subscription {subscriptionName} Received: {args.Message.Body}");
