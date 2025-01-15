@@ -1,0 +1,9 @@
+* I'm using Visual Studio 2022 and already have Docker Desktop (on Windows).
+* So the only part I had to do was:
+  * Azure Service Bus Emulator: Azure Service Bus Emulator Installer
+  * Swap out the Config.json file with the Config-codemash.json file
+  * Run the script here: azure-service-bus-emulator-installer\ServiceBus-Emulator\Scripts\Windows
+  * It will prompt you, say "Y"
+  * Enter a password that meets complexity requirements, otherwise it will fail and you'll have to run it again
+  * It will download all the images etc..
+  * Go into Docker Desktop and start the two containers it made: sqledge and the azure bus one.

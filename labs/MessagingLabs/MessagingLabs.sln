@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab1-queue-producer", "lab1-producer\lab1-queue-producer.csproj", "{EF9E0CB8-989A-4E5E-B3F9-1BADD74DB6F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1-queue-consumer", "lab1-consumer\lab1-queue-consumer.csproj", "{7B9130A6-9DCF-4FF8-9676-E95A25AF0544}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1-queue-consumers", "lab1-consumer\lab1-queue-consumers.csproj", "{7B9130A6-9DCF-4FF8-9676-E95A25AF0544}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1-topic-producer", "lab1-topic-producer\lab1-topic-producer.csproj", "{55B59F09-5661-4832-9EAA-67C8ACF79BEE}"
 EndProject

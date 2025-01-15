@@ -1,5 +1,6 @@
 ﻿using Azure.Messaging.ServiceBus;
 
+//Both will consume concurrently.
 var sub1 = await AddSubscription("subscription1");
 var sub2 = await AddSubscription("subscription2");
 
